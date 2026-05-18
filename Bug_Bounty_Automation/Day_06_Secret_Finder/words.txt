@@ -1,0 +1,6 @@
+admin
+config
+.env
+api
+backup.zip
+robots.txt
