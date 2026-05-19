@@ -1,0 +1,8 @@
+debug
+id
+file
+admin
+test
+dir
+user_id
+
